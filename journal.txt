@@ -1,0 +1,10 @@
+AI Usage Journal 
+Fatima Yasar
+fyasar@umd.edu
+Section 0203
+
+Week 1
+This week I used AI to help give me some examples while I was completing the week 1 exercises. 
+I was a little lost at first since I am fairly new to coding and haven't coded since INST126 but after
+asking ChatGPT and Gemini for some example codes using f-strings and strip(), I was able to get a refresher of
+these concepts and continue to complete the exercises myself. I did not use AI for debugging.
