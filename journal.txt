@@ -10,4 +10,6 @@ asking ChatGPT and Gemini for some example codes using f-strings and strip(), I 
 these concepts and continue to complete the exercises myself. I did not use AI for debugging.
 
 Week 2
-This week I used AI to help give me some ideas for our group project charter. I also explored a little with Claude while doing this and realized that I liked using Claude more when compared to ChatGPT. I did not use AI for the Week 2 exercises this week.
+This week I used AI to help give me some ideas for our group project charter. 
+I also explored a little with Claude and realized that I liked using Claude more compared to ChatGPT.
+I did not use AI for the Week 2 exercises this week.
