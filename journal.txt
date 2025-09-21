@@ -8,3 +8,6 @@ This week I used AI to help give me some examples while I was completing the wee
 I was a little lost at first since I am fairly new to coding and haven't coded since INST126 but after
 asking ChatGPT and Gemini for some example codes using f-strings and strip(), I was able to get a refresher of
 these concepts and continue to complete the exercises myself. I did not use AI for debugging.
+
+Week 2
+This week I used AI to help give me some ideas for our group project charter. I also explored a little with Claude while doing this and realized that I liked using Claude more when compared to ChatGPT. I did not use AI for the Week 2 exercises this week.
