@@ -15,4 +15,7 @@ I also explored a little with Claude and realized that I liked using Claude more
 I did not use AI for the Week 2 exercises this week.
 
 Week 3 
-This week I experimented with claude and used it to help me debug some problems on the week 3 exercises. I also utilized it to give me examples when I was struggling. For the most part of the exercises I was able to complete them on my own however there were some instances where claude helped me to understand where I went wrong when I had to debug.
+This week I experimented with claude and used it to help me debug some problems on the week 3 exercises. 
+I also utilized it to give me examples when I was struggling. For the most part of the exercises 
+I was able to complete them on my own however there were some instances where claude helped me to 
+understand where I went wrong when I had to debug.
