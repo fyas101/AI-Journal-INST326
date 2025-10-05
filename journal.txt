@@ -21,4 +21,7 @@ I was able to complete them on my own however there were some instances where cl
 understand where I went wrong when I had to debug.
 
 Week 4
-This week I utilized claude to help me understand some coding concepts. I asked it to help explain creating classes and show me some examples. This then helped me to complete the week 04 exercises. I did not use claude for the actual coding in the exercises or debugging this week.
+This week I utilized claude to help me understand some coding concepts. 
+I asked it to help explain creating classes and show me some examples. 
+This then helped me to complete the week 04 exercises. 
+I did not use claude for the actual coding in the exercises or debugging this week.
