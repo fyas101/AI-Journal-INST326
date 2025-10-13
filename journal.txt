@@ -25,3 +25,9 @@ This week I utilized claude to help me understand some coding concepts.
 I asked it to help explain creating classes and show me some examples. 
 This then helped me to complete the week 04 exercises. 
 I did not use claude for the actual coding in the exercises or debugging this week.
+
+Week 5
+This week I utilized claude to help me debug some of the week 5 exercises. Specifically, exercises 14 and 16.
+I also utilized it to help explain some coding concepts and functions such as how and when to use a ValueError
+as well as some examples. This then allowed me to include a ValueError function into some of the exercises for
+this week.
