@@ -33,7 +33,15 @@ as well as some examples. This then allowed me to include a ValueError function 
 this week.
 
 Week 6
-This week I utilized claude to help teach me how  to create classes and also refresh my memory on some coding concepts such as parsing while I was completing the weekly exercises. This refresher then allowed me to work on my group project as well.
+This week I utilized claude to help teach me how  to create classes and also refresh my memory on some coding concepts 
+such as parsing while I was completing the weekly exercises. 
+This refresher then allowed me to work on my group project as well.
 
 Week 7 
-This week I utilized chatgpt and claude to help me debug one of my side projects that helped me estimate my gpa based off of class grades and the UMD grading system. I also utilized claude to help explain errors to me which came up during my completion of the project. This helped me to map out what was needed and do necessary debugging. Furtheremore, I asked claude to give me examples of usuage with classes which gave me a better understanding of how I could complete the project. 
+This week I utilized chatgpt and claude to help me debug one of my side projects that helped me estimate my gpa based off of 
+class grades and the UMD grading system. I also utilized claude to help explain errors to me which came up during my completion 
+of the project. This helped me to map out what was needed and do necessary debugging. Furtheremore, I asked claude to give me 
+examples of usuage with classes which gave me a better understanding of how I could complete the project. 
+
+Week 8
+I did not utilize AI this week for assignments. 
